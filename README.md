@@ -10,3 +10,7 @@ Course highlights are:
 * Elementary data processing algorithms
 * Notions of program correctness and efficiency
 * Numerical methods for linear algebra and mathematical optimization
+
+Module 0: Fundamentals
+* Topic 1: Python bootcamp review  + intro to Jupyter
+* Topic 2: Pairwise association minin
