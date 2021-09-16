@@ -14,7 +14,6 @@ Course highlights:
 Module 0 - Fundamentals
 * Topic 1: Python bootcamp review  + intro to Jupyter
 * Topic 2: Pairwise association mining
-  * Default dictionaries, asymptotic running time
 * Topic 3: Mathematical preliminaries
 * Topic 4: Representing numbers
 
